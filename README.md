@@ -11,7 +11,7 @@ A Java Swing desktop application that generates personalized weekly diet plans b
 
 ## 📖 Overview
 
-The AI Diet Planner helps users create customized weekly meal plans by considering multiple health and dietary factors.
+The Smart Diet Planner helps users create customized weekly meal plans by considering multiple health and dietary factors.
 
 The application provides an interactive graphical interface that makes meal planning simple and user-friendly.
 
@@ -50,56 +50,28 @@ AI-Diet-Planner
 ├── images/
 ├── screenshots/
 ├── README.md
-└── Project_Report.pdf
+
 ```
 
 ---
-
 ## 📸 Screenshots
 
 ### Welcome Screen
-
-![Welcome](screenshots/welcome.png)
-
----
+![Welcome Screen](ScreenShoots/WelcomeScreen.png)
 
 ### Login Screen
+![Login Screen](ScreenShoots/login.png)
 
-![Login](screenshots/login.png)
+### Splash Screen
+![Splash Screen](ScreenShoots/SplashScrren.png)
 
----
+### Input Form
+![Input Frame](ScreenShoots/InputFrame.png)
 
-### User Information
+### Result Screen
+![Result Frame](ScreenShoots/ResultFrame.png)
 
-![User Information](screenshots/user_information.png)
 
----
-
-### Health Conditions
-
-![Health](screenshots/health_conditions.png)
-
----
-
-### Weekly Diet Plan
-
-![Diet Plan](screenshots/weekly_diet_plan.png)
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/AI-Diet-Planner.git
-```
-
-2. Open the project in NetBeans.
-
-3. Run the project.
-
----
 
 ## 🎯 Learning Outcomes
 
