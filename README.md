@@ -1,4 +1,4 @@
-# 🥗 AI Diet Planner
+# 🥗 Smart Diet Planner
 
 ![Java](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue.svg)
