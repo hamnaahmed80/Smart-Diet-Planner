@@ -1,0 +1,721 @@
+DISEASE|MEAL_TYPE|MEAL_NAME|INGREDIENTS|FOOD_TYPE|CUISINE
+Diabetes|Breakfast|Daliya Porridge|daliya,water,milk,salt|Vegetarian|Pakistani
+Diabetes|Breakfast|Besan Chilla|besan,onion,tomato,green chili,salt|Vegetarian|Pakistani
+Diabetes|Breakfast|Boiled Egg with Brown Toast|egg,brown bread,salt,pepper|Non-Vegetarian|Pakistani
+Diabetes|Breakfast|Methi Paratha|whole wheat flour,methi,oil,salt|Vegetarian|Pakistani
+Diabetes|Breakfast|Greek Yogurt with Seeds|yogurt,flaxseeds,chia seeds|Vegetarian|Pakistani
+Diabetes|Breakfast|Saag with Makki Roti|saag,makki flour,butter,salt|Vegetarian|Pakistani
+Diabetes|Breakfast|Anda Bhurji|eggs,onion,tomato,green chili,oil|Non-Vegetarian|Pakistani
+Diabetes|Breakfast|Oatmeal with Nuts|oats,almonds,walnuts,milk|Vegetarian|Pakistani
+Diabetes|Breakfast|Karela Juice with Toast|karela,water,brown bread|Vegetarian|Pakistani
+Diabetes|Breakfast|Moong Dal Cheela|moong dal,onion,green chili,salt|Vegan|Pakistani
+Diabetes|Breakfast|Lauki Paratha|lauki,whole wheat flour,oil,salt|Vegan|Pakistani
+Diabetes|Breakfast|Paneer Bhurji|paneer,onion,tomato,spices|Vegetarian|Pakistani
+Diabetes|Breakfast|Dahi with Flaxseeds|yogurt,flaxseeds,salt|Vegetarian|Pakistani
+Diabetes|Breakfast|Spinach Omelette|egg,spinach,onion,salt,oil|Non-Vegetarian|Pakistani
+Diabetes|Breakfast|Whole Wheat Roti with Dahi|wheat roti,yogurt,salt|Vegetarian|Pakistani
+Diabetes|Breakfast|Chicken Yakhni Soup|chicken,ginger,garlic,salt,water|Non-Vegetarian|Pakistani
+Diabetes|Breakfast|Stuffed Shimla Mirch|capsicum,paneer,spices|Vegetarian|Pakistani
+Diabetes|Breakfast|Sprout Salad|moong sprouts,tomato,cucumber,lemon|Vegan|Pakistani
+Diabetes|Breakfast|Brown Rice Khichdi|brown rice,moong dal,turmeric|Vegan|Pakistani
+Diabetes|Breakfast|Turai Sabzi with Roti|turai,onion,tomato,wheat roti|Vegan|Pakistani
+Diabetes|Breakfast|Namkeen Lassi|yogurt,water,salt,cumin|Vegetarian|Pakistani
+Diabetes|Breakfast|Chickpea Salad|chickpeas,onion,tomato,lemon,spices|Vegan|Pakistani
+Diabetes|Breakfast|Palak Roti|spinach,wheat flour,oil,salt|Vegan|Pakistani
+Diabetes|Breakfast|Egg White Omelette|egg white,capsicum,onion,salt|Non-Vegetarian|Pakistani
+Diabetes|Breakfast|Sattu Drink|sattu,water,lemon,salt|Vegan|Pakistani
+Diabetes|Breakfast|Mixed Veg Upma|semolina,vegetables,mustard seeds|Vegetarian|Pakistani
+Diabetes|Breakfast|Kali Mirch Chai|green tea,black pepper,ginger|Vegan|Pakistani
+Diabetes|Breakfast|Almond Milk Smoothie|almond milk,banana,chia seeds|Vegan|Pakistani
+Diabetes|Breakfast|Bran Muffin|wheat bran,egg,milk,honey|Vegetarian|Pakistani
+Diabetes|Breakfast|Stuffed Karela|karela,onion,spices,oil|Vegan|Pakistani
+Diabetes|Lunch|Masoor Dal with Brown Rice|masoor dal,brown rice,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Lunch|Grilled Chicken Salad|chicken,cucumber,tomato,lettuce,lemon|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Karela Gosht|karela,mutton,onion,tomato,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Moong Dal Tadka|moong dal,garlic,cumin,tomato|Vegan|Pakistani
+Diabetes|Lunch|Tinda Sabzi with Roti|tinda,onion,tomato,wheat roti|Vegan|Pakistani
+Diabetes|Lunch|Chicken Yakhni|chicken,ginger,garlic,spices,water|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Palak Gosht|spinach,mutton,onion,tomato,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Lauki Dal|lauki,moong dal,tomato,spices|Vegan|Pakistani
+Diabetes|Lunch|Methi Gosht|methi,mutton,onion,tomato,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Brown Rice Pulao|brown rice,vegetables,cumin,oil|Vegan|Pakistani
+Diabetes|Lunch|Fish Curry|fish,tomato,onion,spices,oil|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Chana Dal|chana dal,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Lunch|Stuffed Tinda|tinda,onion,spices,oil|Vegan|Pakistani
+Diabetes|Lunch|Chicken Shorba|chicken,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Baingan Bharta|baingan,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Lunch|Daal Mash|urad dal,onion,garlic,tomato,spices|Vegan|Pakistani
+Diabetes|Lunch|Grilled Fish|fish,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Arvi Gosht|arvi,mutton,tomato,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Saag Gosht|saag,mutton,onion,garlic,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Mixed Vegetable Curry|mixed vegetables,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Lunch|Keema Karela|keema,karela,onion,tomato,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Turai Gosht|turai,mutton,onion,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Chickpea Curry|chickpeas,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Lunch|Sindhi Kadhi|vegetables,chickpea flour,tamarind,spices|Vegan|Pakistani
+Diabetes|Lunch|Lobia Curry|black eyed peas,tomato,onion,spices|Vegan|Pakistani
+Diabetes|Lunch|Raita with Roti|yogurt,cucumber,cumin,wheat roti|Vegetarian|Pakistani
+Diabetes|Lunch|Bhindi Gosht|bhindi,mutton,onion,tomato,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Egg Curry|eggs,onion,tomato,spices|Non-Vegetarian|Pakistani
+Diabetes|Lunch|Aloo Palak|potato,spinach,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Lunch|Whole Wheat Chapati with Dal|wheat chapati,dal,spices|Vegan|Pakistani
+Diabetes|Dinner|Grilled Chicken with Salad|chicken,cucumber,tomato,lettuce,lemon|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Palak Paneer|spinach,paneer,onion,tomato,spices|Vegetarian|Pakistani
+Diabetes|Dinner|Fish Tikka|fish,yogurt,spices,lemon|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Moong Dal Khichdi|moong dal,rice,turmeric,salt|Vegan|Pakistani
+Diabetes|Dinner|Karela Sabzi|karela,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Dinner|Chicken Saag|chicken,spinach,onion,tomato,spices|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Mutton Yakhni|mutton,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Lauki Kofta|lauki,besan,spices,oil|Vegetarian|Pakistani
+Diabetes|Dinner|Masoor Soup|masoor dal,tomato,garlic,spices|Vegan|Pakistani
+Diabetes|Dinner|Egg Bhurji with Roti|eggs,onion,tomato,wheat roti|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Baingan Gosht|baingan,mutton,onion,spices|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Turai Sabzi|turai,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Dinner|Chicken Shorba|chicken,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Chana Dal with Roti|chana dal,wheat roti,spices|Vegan|Pakistani
+Diabetes|Dinner|Stuffed Capsicum|capsicum,paneer,onion,spices|Vegetarian|Pakistani
+Diabetes|Dinner|Steamed Fish|fish,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Bhindi Sabzi|bhindi,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Dinner|Methi Matar|methi,peas,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Dinner|Chicken Tikka|chicken,yogurt,spices,lemon|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Daal Mash with Roti|urad dal,wheat roti,spices|Vegan|Pakistani
+Diabetes|Dinner|Aloo Methi|potato,methi,onion,spices|Vegan|Pakistani
+Diabetes|Dinner|Grilled Mutton Chops|mutton,spices,lemon,garlic|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Saag with Makki Roti|saag,makki roti,butter|Vegetarian|Pakistani
+Diabetes|Dinner|Arvi Sabzi|arvi,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Dinner|Chicken Soup|chicken,vegetables,ginger,salt|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+Diabetes|Dinner|Egg Salad|eggs,cucumber,tomato,lettuce,lemon|Non-Vegetarian|Pakistani
+Diabetes|Dinner|Shimla Mirch Gosht|capsicum,mutton,spices|Non-Vegetarian|Pakistani
+Diabetes|Snacks|Roasted Chana|chana,salt,cumin|Vegan|Pakistani
+Diabetes|Snacks|Cucumber Slices with Yogurt|cucumber,yogurt,salt,cumin|Vegetarian|Pakistani
+Diabetes|Snacks|Walnuts and Almonds|walnuts,almonds|Vegan|Pakistani
+Diabetes|Snacks|Karela Chips|karela,salt,oil|Vegan|Pakistani
+Diabetes|Snacks|Besan Soup|besan,water,cumin,salt|Vegan|Pakistani
+Diabetes|Snacks|Sprout Chaat|moong sprouts,tomato,onion,lemon|Vegan|Pakistani
+Diabetes|Snacks|Yogurt with Flaxseeds|yogurt,flaxseeds,salt|Vegetarian|Pakistani
+Diabetes|Snacks|Boiled Egg|egg,salt,pepper|Non-Vegetarian|Pakistani
+Diabetes|Snacks|Roasted Pumpkin Seeds|pumpkin seeds,salt|Vegan|Pakistani
+Diabetes|Snacks|Green Tea with Ginger|green tea,ginger,lemon|Vegan|Pakistani
+Diabetes|Snacks|Palak Soup|spinach,garlic,water,salt|Vegan|Pakistani
+Diabetes|Snacks|Methi Seeds Water|methi seeds,water|Vegan|Pakistani
+Diabetes|Snacks|Peanut Butter on Brown Toast|peanut butter,brown bread|Vegan|Pakistani
+Diabetes|Snacks|Lauki Juice|lauki,water,lemon|Vegan|Pakistani
+Diabetes|Snacks|Chickpea Chaat|chickpeas,onion,tomato,chaat masala|Vegan|Pakistani
+Diabetes|Snacks|Namkeen Lassi|yogurt,water,salt,cumin|Vegetarian|Pakistani
+Diabetes|Snacks|Roasted Makhana|makhana,salt,ghee|Vegan|Pakistani
+Diabetes|Snacks|Almond Smoothie|almonds,milk,no sugar|Vegetarian|Pakistani
+Diabetes|Snacks|Tomato Soup|tomato,garlic,onion,salt|Vegan|Pakistani
+Diabetes|Snacks|Sattu Drink|sattu,water,lemon,salt|Vegan|Pakistani
+Diabetes|Snacks|Chia Seed Water|chia seeds,water,lemon|Vegan|Pakistani
+Diabetes|Snacks|Mixed Nuts|almonds,walnuts,pistachios|Vegan|Pakistani
+Diabetes|Snacks|Dahi with Cucumber|yogurt,cucumber,salt,mint|Vegetarian|Pakistani
+Diabetes|Snacks|Bran Crackers|wheat bran crackers,salt|Vegan|Pakistani
+Diabetes|Snacks|Jamun Juice|jamun,water|Vegan|Pakistani
+Diabetes|Snacks|Ajwain Water|ajwain,water|Vegan|Pakistani
+Diabetes|Snacks|Steamed Moong Dal|moong dal,salt,lemon|Vegan|Pakistani
+Diabetes|Snacks|Celery with Peanut Butter|celery,peanut butter|Vegan|Pakistani
+Diabetes|Snacks|Apple Slices with Cinnamon|apple,cinnamon|Vegan|Pakistani
+Diabetes|Snacks|Coconut Water|coconut water|Vegan|Pakistani
+Thyroid|Breakfast|Selenium Rich Egg Omelette|eggs,mushrooms,onion,salt,oil|Non-Vegetarian|Pakistani
+Thyroid|Breakfast|Brazil Nut Smoothie|brazil nuts,almond milk,banana|Vegan|Pakistani
+Thyroid|Breakfast|Daliya with Nuts|daliya,almonds,walnuts,milk|Vegetarian|Pakistani
+Thyroid|Breakfast|Whole Wheat Roti with Anda|wheat roti,egg,oil,salt|Non-Vegetarian|Pakistani
+Thyroid|Breakfast|Brown Rice Khichdi|brown rice,moong dal,turmeric|Vegan|Pakistani
+Thyroid|Breakfast|Pumpkin Seed Smoothie|pumpkin seeds,milk,banana|Vegetarian|Pakistani
+Thyroid|Breakfast|Methi Paratha with Dahi|methi,wheat flour,yogurt,salt|Vegetarian|Pakistani
+Thyroid|Breakfast|Besan Chilla with Chutney|besan,onion,tomato,coriander chutney|Vegetarian|Pakistani
+Thyroid|Breakfast|Spinach Omelette|egg,spinach,garlic,salt|Non-Vegetarian|Pakistani
+Thyroid|Breakfast|Oats with Almonds|oats,almonds,milk,honey|Vegetarian|Pakistani
+Thyroid|Breakfast|Dahi with Seeds|yogurt,sunflower seeds,flaxseeds|Vegetarian|Pakistani
+Thyroid|Breakfast|Chicken Broth|chicken,ginger,garlic,salt,water|Non-Vegetarian|Pakistani
+Thyroid|Breakfast|Moong Dal Cheela|moong dal,onion,coriander,salt|Vegan|Pakistani
+Thyroid|Breakfast|Mixed Nut Porridge|oats,cashews,almonds,raisins,milk|Vegetarian|Pakistani
+Thyroid|Breakfast|Avocado Toast|brown bread,avocado,salt,lemon|Vegan|Pakistani
+Thyroid|Breakfast|Egg Bhurji|eggs,onion,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Breakfast|Carrot Halwa (low sugar)|carrot,milk,sugar-free sweetener,ghee|Vegetarian|Pakistani
+Thyroid|Breakfast|Lauki Juice with Ginger|lauki,ginger,water,lemon|Vegan|Pakistani
+Thyroid|Breakfast|Whole Grain Toast with Peanut Butter|brown bread,peanut butter|Vegan|Pakistani
+Thyroid|Breakfast|Palak Paratha|spinach,wheat flour,oil,salt|Vegan|Pakistani
+Thyroid|Breakfast|Sattu Drink|sattu,water,lemon,salt|Vegan|Pakistani
+Thyroid|Breakfast|Coconut Chutney Roti|wheat roti,coconut chutney|Vegan|Pakistani
+Thyroid|Breakfast|Turkey Sandwich|brown bread,turkey,lettuce,tomato|Non-Vegetarian|Pakistani
+Thyroid|Breakfast|Namkeen Porridge|daliya,salt,cumin,vegetables|Vegan|Pakistani
+Thyroid|Breakfast|Mango Lassi (no sugar)|mango,yogurt,water|Vegetarian|Pakistani
+Thyroid|Breakfast|Sprouted Moong Chaat|moong sprouts,tomato,cumin,lemon|Vegan|Pakistani
+Thyroid|Breakfast|Chia Pudding|chia seeds,almond milk,honey|Vegan|Pakistani
+Thyroid|Breakfast|Mushroom Omelette|eggs,mushrooms,salt,pepper|Non-Vegetarian|Pakistani
+Thyroid|Breakfast|Rice Bran Roti with Dal|rice bran roti,moong dal|Vegan|Pakistani
+Thyroid|Breakfast|Almond Milk with Dates|almond milk,dates,cinnamon|Vegan|Pakistani
+Thyroid|Lunch|Fish Curry|fish,tomato,onion,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Chicken Palak|chicken,spinach,onion,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Masoor Dal|masoor dal,onion,garlic,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Moong Dal Soup|moong dal,garlic,cumin,water|Vegan|Pakistani
+Thyroid|Lunch|Grilled Tuna|tuna,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Chana Dal|chana dal,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Chicken Tikka with Salad|chicken,yogurt,spices,salad|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Lobia Curry|black eyed peas,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Saag Gosht|saag,mutton,onion,garlic,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Brown Rice with Vegetables|brown rice,mixed vegetables,spices|Vegan|Pakistani
+Thyroid|Lunch|Keema Methi|keema,methi,onion,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Bhindi Curry|bhindi,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Chicken Yakhni|chicken,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Egg Curry|eggs,onion,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Daal Mash|urad dal,garlic,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Sindhi Fish|fish,tomato,tamarind,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Mixed Vegetable Curry|mixed vegetables,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Mutton Curry|mutton,onion,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Palak Paneer|spinach,paneer,onion,tomato,spices|Vegetarian|Pakistani
+Thyroid|Lunch|Chickpea Curry|chickpeas,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Turkey Keema|turkey keema,onion,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Rajma Curry|kidney beans,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Grilled Chicken|chicken,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Arvi Gosht|arvi,mutton,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Lauki Dal|lauki,dal,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Fish Tikka|fish,yogurt,spices,lemon|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Pumpkin Curry|pumpkin,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Lunch|Chicken Soup|chicken,vegetables,ginger,salt|Non-Vegetarian|Pakistani
+Thyroid|Lunch|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+Thyroid|Lunch|Aloo Palak|potato,spinach,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Dinner|Grilled Salmon|salmon,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Chicken Saag|chicken,spinach,onion,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Moong Dal Khichdi|moong dal,rice,turmeric,salt|Vegan|Pakistani
+Thyroid|Dinner|Fish Shorba|fish,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Palak Paneer|spinach,paneer,onion,tomato,spices|Vegetarian|Pakistani
+Thyroid|Dinner|Mutton Yakhni|mutton,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Chana Dal with Roti|chana dal,wheat roti,spices|Vegan|Pakistani
+Thyroid|Dinner|Grilled Chicken|chicken,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Lauki Sabzi|lauki,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Dinner|Egg Bhurji with Roti|eggs,onion,tomato,wheat roti|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Masoor Soup|masoor dal,tomato,garlic,spices|Vegan|Pakistani
+Thyroid|Dinner|Bhindi Gosht|bhindi,mutton,onion,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Steamed Fish|fish,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Mixed Vegetable Soup|mixed vegetables,garlic,salt,water|Vegan|Pakistani
+Thyroid|Dinner|Daal Mash with Roti|urad dal,wheat roti,spices|Vegan|Pakistani
+Thyroid|Dinner|Chicken Tikka|chicken,yogurt,spices,lemon|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Baingan Bharta|baingan,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Dinner|Lobia Soup|black eyed peas,tomato,onion,spices|Vegan|Pakistani
+Thyroid|Dinner|Turkey Mince Curry|turkey mince,onion,tomato,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Arvi Sabzi|arvi,onion,tomato,spices|Vegan|Pakistani
+Thyroid|Dinner|Turai Gosht|turai,mutton,onion,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Saag with Makki Roti|saag,makki roti,butter|Vegetarian|Pakistani
+Thyroid|Dinner|Aloo Methi|potato,methi,onion,spices|Vegan|Pakistani
+Thyroid|Dinner|Chicken Shorba|chicken,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Stuffed Capsicum|capsicum,paneer,onion,spices|Vegetarian|Pakistani
+Thyroid|Dinner|Fish Curry|fish,tomato,onion,spices|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+Thyroid|Dinner|Grilled Mutton Chops|mutton,spices,lemon,garlic|Non-Vegetarian|Pakistani
+Thyroid|Dinner|Vegetable Khichdi|rice,mixed vegetables,turmeric|Vegan|Pakistani
+Thyroid|Dinner|Egg Salad|eggs,cucumber,tomato,lettuce,lemon|Non-Vegetarian|Pakistani
+Thyroid|Snacks|Brazil Nuts|brazil nuts|Vegan|Pakistani
+Thyroid|Snacks|Pumpkin Seeds|pumpkin seeds,salt|Vegan|Pakistani
+Thyroid|Snacks|Boiled Egg|egg,salt,pepper|Non-Vegetarian|Pakistani
+Thyroid|Snacks|Mushroom Soup|mushrooms,garlic,water,salt|Vegan|Pakistani
+Thyroid|Snacks|Roasted Sunflower Seeds|sunflower seeds,salt|Vegan|Pakistani
+Thyroid|Snacks|Yogurt with Seeds|yogurt,flaxseeds,chia seeds|Vegetarian|Pakistani
+Thyroid|Snacks|Walnut Mix|walnuts,almonds,cashews|Vegan|Pakistani
+Thyroid|Snacks|Coconut Water|coconut water|Vegan|Pakistani
+Thyroid|Snacks|Cucumber with Yogurt Dip|cucumber,yogurt,salt,mint|Vegetarian|Pakistani
+Thyroid|Snacks|Sprout Chaat|moong sprouts,tomato,lemon,chaat masala|Vegan|Pakistani
+Thyroid|Snacks|Green Tea|green tea,ginger,lemon|Vegan|Pakistani
+Thyroid|Snacks|Almond Smoothie|almonds,milk,banana|Vegetarian|Pakistani
+Thyroid|Snacks|Namkeen Lassi|yogurt,water,salt,cumin|Vegetarian|Pakistani
+Thyroid|Snacks|Chickpea Chaat|chickpeas,tomato,onion,chaat masala|Vegan|Pakistani
+Thyroid|Snacks|Roasted Chana|chana,salt,cumin|Vegan|Pakistani
+Thyroid|Snacks|Ajwain Water|ajwain,warm water|Vegan|Pakistani
+Thyroid|Snacks|Methi Seeds Water|methi seeds,water|Vegan|Pakistani
+Thyroid|Snacks|Selenium Smoothie|brazil nuts,banana,almond milk|Vegan|Pakistani
+Thyroid|Snacks|Peanut Butter with Apple|apple,peanut butter|Vegan|Pakistani
+Thyroid|Snacks|Tuna on Brown Toast|tuna,brown bread,lemon|Non-Vegetarian|Pakistani
+Thyroid|Snacks|Chia Water|chia seeds,water,lemon|Vegan|Pakistani
+Thyroid|Snacks|Tomato Soup|tomato,garlic,onion,salt|Vegan|Pakistani
+Thyroid|Snacks|Lentil Soup Cup|masoor dal,water,garlic,salt|Vegan|Pakistani
+Thyroid|Snacks|Mixed Seeds Mix|pumpkin seeds,sunflower seeds,flaxseeds|Vegan|Pakistani
+Thyroid|Snacks|Dahi with Fruits|yogurt,banana,apple|Vegetarian|Pakistani
+Thyroid|Snacks|Oat Biscuits|oats,honey,milk|Vegetarian|Pakistani
+Thyroid|Snacks|Sattu Drink|sattu,water,lemon,salt|Vegan|Pakistani
+Thyroid|Snacks|Herbal Tea|tulsi,ginger,water,honey|Vegan|Pakistani
+Thyroid|Snacks|Carrot Sticks with Hummus|carrot,hummus|Vegan|Pakistani
+Thyroid|Snacks|Bran Crackers|wheat bran crackers,salt|Vegan|Pakistani
+PCOS|Breakfast|Methi Paratha with Dahi|methi,wheat flour,yogurt,salt|Vegetarian|Pakistani
+PCOS|Breakfast|Daliya with Nuts|daliya,almonds,walnuts,milk|Vegetarian|Pakistani
+PCOS|Breakfast|Spinach Omelette|egg,spinach,onion,salt|Non-Vegetarian|Pakistani
+PCOS|Breakfast|Besan Chilla|besan,onion,tomato,green chili,salt|Vegetarian|Pakistani
+PCOS|Breakfast|Whole Wheat Roti with Egg|wheat roti,egg,oil,salt|Non-Vegetarian|Pakistani
+PCOS|Breakfast|Oats with Berries|oats,mixed berries,milk,honey|Vegetarian|Pakistani
+PCOS|Breakfast|Chia Pudding|chia seeds,almond milk,honey|Vegan|Pakistani
+PCOS|Breakfast|Flaxseed Smoothie|flaxseeds,banana,almond milk|Vegan|Pakistani
+PCOS|Breakfast|Greek Yogurt with Seeds|yogurt,flaxseeds,pumpkin seeds|Vegetarian|Pakistani
+PCOS|Breakfast|Sprout Salad|moong sprouts,tomato,cucumber,lemon|Vegan|Pakistani
+PCOS|Breakfast|Avocado Toast|brown bread,avocado,salt,lemon|Vegan|Pakistani
+PCOS|Breakfast|Egg Bhurji|eggs,onion,tomato,spices|Non-Vegetarian|Pakistani
+PCOS|Breakfast|Moong Dal Cheela|moong dal,onion,coriander|Vegan|Pakistani
+PCOS|Breakfast|Palak Paratha|spinach,wheat flour,oil,salt|Vegan|Pakistani
+PCOS|Breakfast|Dahi with Flaxseeds|yogurt,flaxseeds,salt|Vegetarian|Pakistani
+PCOS|Breakfast|Brown Rice Khichdi|brown rice,moong dal,turmeric|Vegan|Pakistani
+PCOS|Breakfast|Mushroom Omelette|eggs,mushrooms,salt,pepper|Non-Vegetarian|Pakistani
+PCOS|Breakfast|Lauki Juice|lauki,water,ginger,lemon|Vegan|Pakistani
+PCOS|Breakfast|Cinnamon Oatmeal|oats,cinnamon,milk,almonds|Vegetarian|Pakistani
+PCOS|Breakfast|Almond Butter Toast|brown bread,almond butter|Vegan|Pakistani
+PCOS|Breakfast|Namkeen Daliya|daliya,vegetables,cumin,salt|Vegan|Pakistani
+PCOS|Breakfast|Carrot Ginger Smoothie|carrot,ginger,orange,water|Vegan|Pakistani
+PCOS|Breakfast|Whole Grain Roti with Dal|wheat roti,moong dal|Vegan|Pakistani
+PCOS|Breakfast|Spearmint Tea with Toast|spearmint tea,brown toast|Vegan|Pakistani
+PCOS|Breakfast|Turkey Omelette|turkey,eggs,onion,salt|Non-Vegetarian|Pakistani
+PCOS|Breakfast|Pumpkin Seed Yogurt Bowl|yogurt,pumpkin seeds,honey|Vegetarian|Pakistani
+PCOS|Breakfast|Ajwain Paratha|wheat flour,ajwain,oil,salt|Vegan|Pakistani
+PCOS|Breakfast|Sattu Drink|sattu,water,lemon,salt|Vegan|Pakistani
+PCOS|Breakfast|Masoor Soup|masoor,water,garlic,salt|Vegan|Pakistani
+PCOS|Breakfast|Ragi Roti with Sabzi|ragi flour,mixed vegetables|Vegan|Pakistani
+PCOS|Lunch|Grilled Chicken Salad|chicken,cucumber,tomato,lettuce,lemon|Non-Vegetarian|Pakistani
+PCOS|Lunch|Masoor Dal with Brown Rice|masoor dal,brown rice,spices|Vegan|Pakistani
+PCOS|Lunch|Palak Gosht|spinach,mutton,onion,tomato,spices|Non-Vegetarian|Pakistani
+PCOS|Lunch|Methi Gosht|methi,mutton,onion,tomato,spices|Non-Vegetarian|Pakistani
+PCOS|Lunch|Chana Dal|chana dal,onion,tomato,spices|Vegan|Pakistani
+PCOS|Lunch|Fish Curry|fish,tomato,onion,spices|Non-Vegetarian|Pakistani
+PCOS|Lunch|Lobia Curry|black eyed peas,onion,tomato,spices|Vegan|Pakistani
+PCOS|Lunch|Chicken Yakhni|chicken,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+PCOS|Lunch|Moong Dal Soup|moong dal,garlic,cumin,water|Vegan|Pakistani
+PCOS|Lunch|Baingan Bharta|baingan,onion,tomato,spices|Vegan|Pakistani
+PCOS|Lunch|Keema Methi|keema,methi,onion,tomato,spices|Non-Vegetarian|Pakistani
+PCOS|Lunch|Brown Rice Pulao|brown rice,vegetables,cumin|Vegan|Pakistani
+PCOS|Lunch|Grilled Tuna Salad|tuna,cucumber,tomato,lettuce|Non-Vegetarian|Pakistani
+PCOS|Lunch|Bhindi Curry|bhindi,onion,tomato,spices|Vegan|Pakistani
+PCOS|Lunch|Chicken Saag|chicken,spinach,onion,spices|Non-Vegetarian|Pakistani
+PCOS|Lunch|Rajma Curry|kidney beans,onion,tomato,spices|Vegan|Pakistani
+PCOS|Lunch|Egg Curry|eggs,onion,tomato,spices|Non-Vegetarian|Pakistani
+PCOS|Lunch|Lauki Dal|lauki,dal,tomato,spices|Vegan|Pakistani
+PCOS|Lunch|Arvi Gosht|arvi,mutton,tomato,spices|Non-Vegetarian|Pakistani
+PCOS|Lunch|Turai Sabzi|turai,onion,tomato,spices|Vegan|Pakistani
+PCOS|Lunch|Chickpea Curry|chickpeas,onion,tomato,spices|Vegan|Pakistani
+PCOS|Lunch|Mutton Curry|mutton,onion,tomato,spices|Non-Vegetarian|Pakistani
+PCOS|Lunch|Palak Paneer|spinach,paneer,onion,tomato,spices|Vegetarian|Pakistani
+PCOS|Lunch|Saag with Roti|saag,wheat roti,butter|Vegetarian|Pakistani
+PCOS|Lunch|Daal Mash|urad dal,garlic,onion,spices|Vegan|Pakistani
+PCOS|Lunch|Mixed Vegetable Curry|mixed vegetables,onion,tomato,spices|Vegan|Pakistani
+PCOS|Lunch|Sindhi Kadhi|vegetables,chickpea flour,tamarind|Vegan|Pakistani
+PCOS|Lunch|Chicken Soup|chicken,vegetables,ginger,salt|Non-Vegetarian|Pakistani
+PCOS|Lunch|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+PCOS|Lunch|Karela Gosht|karela,mutton,onion,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Grilled Chicken|chicken,lemon,garlic,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Palak Paneer|spinach,paneer,onion,tomato,spices|Vegetarian|Pakistani
+PCOS|Dinner|Fish Tikka|fish,yogurt,spices,lemon|Non-Vegetarian|Pakistani
+PCOS|Dinner|Moong Dal Khichdi|moong dal,rice,turmeric,salt|Vegan|Pakistani
+PCOS|Dinner|Chicken Saag|chicken,spinach,onion,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Mutton Yakhni|mutton,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Masoor Soup|masoor,tomato,garlic,spices|Vegan|Pakistani
+PCOS|Dinner|Bhindi Sabzi|bhindi,onion,tomato,spices|Vegan|Pakistani
+PCOS|Dinner|Egg Bhurji with Roti|eggs,onion,tomato,wheat roti|Non-Vegetarian|Pakistani
+PCOS|Dinner|Chana Dal with Roti|chana dal,wheat roti,spices|Vegan|Pakistani
+PCOS|Dinner|Methi Matar|methi,peas,onion,spices|Vegan|Pakistani
+PCOS|Dinner|Chicken Tikka|chicken,yogurt,spices,lemon|Non-Vegetarian|Pakistani
+PCOS|Dinner|Baingan Gosht|baingan,mutton,onion,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Steamed Fish|fish,lemon,garlic,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Turai Gosht|turai,mutton,onion,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Lauki Sabzi|lauki,onion,tomato,spices|Vegan|Pakistani
+PCOS|Dinner|Daal Mash with Roti|urad dal,wheat roti,spices|Vegan|Pakistani
+PCOS|Dinner|Grilled Mutton Chops|mutton,spices,lemon,garlic|Non-Vegetarian|Pakistani
+PCOS|Dinner|Saag with Makki Roti|saag,makki roti,butter|Vegetarian|Pakistani
+PCOS|Dinner|Arvi Sabzi|arvi,onion,tomato,spices|Vegan|Pakistani
+PCOS|Dinner|Chicken Shorba|chicken,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+PCOS|Dinner|Stuffed Capsicum|capsicum,paneer,onion,spices|Vegetarian|Pakistani
+PCOS|Dinner|Aloo Methi|potato,methi,onion,spices|Vegan|Pakistani
+PCOS|Dinner|Mixed Vegetable Soup|mixed vegetables,garlic,salt|Vegan|Pakistani
+PCOS|Dinner|Fish Curry|fish,tomato,onion,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Egg Salad|eggs,cucumber,tomato,lettuce,lemon|Non-Vegetarian|Pakistani
+PCOS|Dinner|Shimla Mirch Gosht|capsicum,mutton,spices|Non-Vegetarian|Pakistani
+PCOS|Dinner|Vegetable Khichdi|rice,mixed vegetables,turmeric|Vegan|Pakistani
+PCOS|Dinner|Karela Sabzi|karela,onion,tomato,spices|Vegan|Pakistani
+PCOS|Snacks|Spearmint Tea|spearmint leaves,water,honey|Vegan|Pakistani
+PCOS|Snacks|Flaxseed Drink|flaxseeds,water,lemon|Vegan|Pakistani
+PCOS|Snacks|Roasted Pumpkin Seeds|pumpkin seeds,salt|Vegan|Pakistani
+PCOS|Snacks|Greek Yogurt with Cinnamon|yogurt,cinnamon|Vegetarian|Pakistani
+PCOS|Snacks|Walnuts and Almonds|walnuts,almonds|Vegan|Pakistani
+PCOS|Snacks|Sprout Chaat|moong sprouts,tomato,lemon,chaat masala|Vegan|Pakistani
+PCOS|Snacks|Boiled Egg|egg,salt,pepper|Non-Vegetarian|Pakistani
+PCOS|Snacks|Cucumber with Yogurt|cucumber,yogurt,mint,salt|Vegetarian|Pakistani
+PCOS|Snacks|Chia Water|chia seeds,water,lemon|Vegan|Pakistani
+PCOS|Snacks|Roasted Chana|chana,salt,cumin|Vegan|Pakistani
+PCOS|Snacks|Coconut Water|coconut water|Vegan|Pakistani
+PCOS|Snacks|Methi Seeds Water|methi seeds,water|Vegan|Pakistani
+PCOS|Snacks|Green Tea with Cinnamon|green tea,cinnamon,lemon|Vegan|Pakistani
+PCOS|Snacks|Apple with Peanut Butter|apple,peanut butter|Vegan|Pakistani
+PCOS|Snacks|Carrot Sticks with Hummus|carrot,hummus|Vegan|Pakistani
+PCOS|Snacks|Namkeen Lassi|yogurt,water,salt,cumin|Vegetarian|Pakistani
+PCOS|Snacks|Chickpea Chaat|chickpeas,tomato,onion,chaat masala|Vegan|Pakistani
+PCOS|Snacks|Mixed Nuts|almonds,walnuts,pistachios|Vegan|Pakistani
+PCOS|Snacks|Tomato Soup|tomato,garlic,onion,salt|Vegan|Pakistani
+PCOS|Snacks|Sattu Drink|sattu,water,lemon,salt|Vegan|Pakistani
+PCOS|Snacks|Lauki Juice|lauki,water,lemon|Vegan|Pakistani
+PCOS|Snacks|Almond Smoothie|almonds,milk,no sugar|Vegetarian|Pakistani
+PCOS|Snacks|Bran Crackers|wheat bran crackers,salt|Vegan|Pakistani
+PCOS|Snacks|Lentil Soup Cup|masoor,water,garlic,salt|Vegan|Pakistani
+PCOS|Snacks|Dahi with Seeds|yogurt,sunflower seeds,flaxseeds|Vegetarian|Pakistani
+PCOS|Snacks|Herbal Tea|tulsi,ginger,water,honey|Vegan|Pakistani
+PCOS|Snacks|Celery with Peanut Butter|celery,peanut butter|Vegan|Pakistani
+PCOS|Snacks|Oat Biscuits|oats,honey,milk|Vegetarian|Pakistani
+PCOS|Snacks|Roasted Makhana|makhana,salt,ghee|Vegan|Pakistani
+PCOS|Snacks|Ajwain Water|ajwain,warm water|Vegan|Pakistani
+Cholesterol|Breakfast|Oatmeal with Apple|oats,apple,cinnamon,water|Vegan|Pakistani
+Cholesterol|Breakfast|Daliya with Seeds|daliya,flaxseeds,chia seeds,water|Vegan|Pakistani
+Cholesterol|Breakfast|Besan Chilla|besan,onion,tomato,green chili|Vegetarian|Pakistani
+Cholesterol|Breakfast|Moong Dal Cheela|moong dal,onion,coriander|Vegan|Pakistani
+Cholesterol|Breakfast|Whole Wheat Roti with Sabzi|wheat roti,mixed vegetables|Vegan|Pakistani
+Cholesterol|Breakfast|Egg White Omelette|egg white,capsicum,onion,salt|Non-Vegetarian|Pakistani
+Cholesterol|Breakfast|Palak Paratha|spinach,wheat flour,oil,salt|Vegan|Pakistani
+Cholesterol|Breakfast|Sprout Salad|moong sprouts,tomato,cucumber,lemon|Vegan|Pakistani
+Cholesterol|Breakfast|Greek Yogurt with Oats|yogurt,oats,flaxseeds|Vegetarian|Pakistani
+Cholesterol|Breakfast|Walnut Smoothie|walnuts,banana,almond milk|Vegan|Pakistani
+Cholesterol|Breakfast|Brown Rice Khichdi|brown rice,moong dal,turmeric|Vegan|Pakistani
+Cholesterol|Breakfast|Dahi with Flaxseeds|yogurt,flaxseeds,salt|Vegetarian|Pakistani
+Cholesterol|Breakfast|Methi Paratha|methi,wheat flour,little oil,salt|Vegan|Pakistani
+Cholesterol|Breakfast|Avocado Toast|brown bread,avocado,salt,lemon|Vegan|Pakistani
+Cholesterol|Breakfast|Flaxseed Paratha|wheat flour,flaxseeds,salt|Vegan|Pakistani
+Cholesterol|Breakfast|Almond Butter Toast|brown bread,almond butter|Vegan|Pakistani
+Cholesterol|Breakfast|Oat Bran Porridge|oat bran,water,cinnamon|Vegan|Pakistani
+Cholesterol|Breakfast|Lauki Juice|lauki,water,ginger,lemon|Vegan|Pakistani
+Cholesterol|Breakfast|Chickpea Cheela|chickpea flour,onion,tomato|Vegan|Pakistani
+Cholesterol|Breakfast|Chia Pudding|chia seeds,almond milk,honey|Vegan|Pakistani
+Cholesterol|Breakfast|Steamed Idli with Chutney|idli,coconut chutney|Vegan|Pakistani
+Cholesterol|Breakfast|Sattu Drink|sattu,water,lemon,salt|Vegan|Pakistani
+Cholesterol|Breakfast|Namkeen Daliya|daliya,vegetables,cumin,salt|Vegan|Pakistani
+Cholesterol|Breakfast|Ragi Roti with Dal|ragi flour,moong dal|Vegan|Pakistani
+Cholesterol|Breakfast|Mixed Seeds Smoothie|flaxseeds,chia seeds,banana,almond milk|Vegan|Pakistani
+Cholesterol|Breakfast|Psyllium Husk Drink|psyllium husk,water,lemon|Vegan|Pakistani
+Cholesterol|Breakfast|Bran Muffin|wheat bran,egg white,honey|Vegetarian|Pakistani
+Cholesterol|Breakfast|Spinach Smoothie|spinach,banana,almond milk|Vegan|Pakistani
+Cholesterol|Breakfast|Palak Dahi Cheela|spinach,besan,yogurt|Vegetarian|Pakistani
+Cholesterol|Breakfast|Whole Grain Toast with Peanut Butter|brown bread,peanut butter|Vegan|Pakistani
+Cholesterol|Lunch|Masoor Dal with Brown Rice|masoor dal,brown rice,spices|Vegan|Pakistani
+Cholesterol|Lunch|Grilled Fish|fish,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Cholesterol|Lunch|Chana Dal|chana dal,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Moong Dal Soup|moong dal,garlic,cumin,water|Vegan|Pakistani
+Cholesterol|Lunch|Lobia Curry|black eyed peas,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Baingan Bharta|baingan,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Grilled Chicken Breast|chicken,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Cholesterol|Lunch|Palak Paneer (low fat)|spinach,low fat paneer,spices|Vegetarian|Pakistani
+Cholesterol|Lunch|Chickpea Curry|chickpeas,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Brown Rice Pulao|brown rice,vegetables,cumin|Vegan|Pakistani
+Cholesterol|Lunch|Fish Curry (mustard)|fish,mustard,tomato,spices|Non-Vegetarian|Pakistani
+Cholesterol|Lunch|Mixed Vegetable Curry|mixed vegetables,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Rajma Curry|kidney beans,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Sindhi Kadhi|vegetables,chickpea flour,tamarind|Vegan|Pakistani
+Cholesterol|Lunch|Grilled Tuna Salad|tuna,cucumber,tomato,lettuce|Non-Vegetarian|Pakistani
+Cholesterol|Lunch|Lauki Dal|lauki,dal,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Bhindi Curry|bhindi,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Chicken Yakhni|chicken,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Cholesterol|Lunch|Egg White Curry|egg white,onion,tomato,spices|Non-Vegetarian|Pakistani
+Cholesterol|Lunch|Turai Sabzi|turai,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+Cholesterol|Lunch|Arvi Curry|arvi,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Palak Dal|spinach,dal,garlic,tomato|Vegan|Pakistani
+Cholesterol|Lunch|Karela Sabzi|karela,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Daal Mash (low fat)|urad dal,garlic,spices,less oil|Vegan|Pakistani
+Cholesterol|Lunch|Saag with Roti|saag,wheat roti,less butter|Vegetarian|Pakistani
+Cholesterol|Lunch|Steamed Fish with Salad|fish,lemon,cucumber,tomato|Non-Vegetarian|Pakistani
+Cholesterol|Lunch|Turkey Curry|turkey,onion,tomato,spices|Non-Vegetarian|Pakistani
+Cholesterol|Lunch|Pumpkin Curry|pumpkin,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Lunch|Vegetable Khichdi|rice,mixed vegetables,turmeric|Vegan|Pakistani
+Cholesterol|Dinner|Grilled Fish|fish,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Cholesterol|Dinner|Moong Dal Khichdi|moong dal,rice,turmeric,salt|Vegan|Pakistani
+Cholesterol|Dinner|Chicken Saag|chicken,spinach,onion,spices|Non-Vegetarian|Pakistani
+Cholesterol|Dinner|Masoor Soup|masoor,tomato,garlic,spices|Vegan|Pakistani
+Cholesterol|Dinner|Bhindi Sabzi|bhindi,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Dinner|Palak Paneer (low fat)|spinach,low fat paneer,spices|Vegetarian|Pakistani
+Cholesterol|Dinner|Chana Dal with Roti|chana dal,wheat roti,spices|Vegan|Pakistani
+Cholesterol|Dinner|Lauki Kofta (baked)|lauki,besan,spices|Vegetarian|Pakistani
+Cholesterol|Dinner|Steamed Chicken|chicken,ginger,garlic,salt|Non-Vegetarian|Pakistani
+Cholesterol|Dinner|Baingan Bharta|baingan,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Dinner|Turai Gosht (less oil)|turai,chicken,spices|Non-Vegetarian|Pakistani
+Cholesterol|Dinner|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+Cholesterol|Dinner|Stuffed Capsicum|capsicum,low fat paneer,spices|Vegetarian|Pakistani
+Cholesterol|Dinner|Saag with Makki Roti|saag,makki roti,less butter|Vegetarian|Pakistani
+Cholesterol|Dinner|Mixed Vegetable Soup|mixed vegetables,garlic,salt|Vegan|Pakistani
+Cholesterol|Dinner|Egg White Bhurji|egg white,onion,tomato,spices|Non-Vegetarian|Pakistani
+Cholesterol|Dinner|Karela Sabzi|karela,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Dinner|Daal Mash with Roti|urad dal,wheat roti,less oil|Vegan|Pakistani
+Cholesterol|Dinner|Grilled Tuna|tuna,lemon,garlic,spices|Non-Vegetarian|Pakistani
+Cholesterol|Dinner|Arvi Sabzi|arvi,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Dinner|Chicken Shorba|chicken,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Cholesterol|Dinner|Aloo Methi (less oil)|potato,methi,spices|Vegan|Pakistani
+Cholesterol|Dinner|Fish Curry|fish,tomato,onion,mustard,spices|Non-Vegetarian|Pakistani
+Cholesterol|Dinner|Lauki Sabzi|lauki,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Dinner|Vegetable Khichdi|rice,mixed vegetables,turmeric|Vegan|Pakistani
+Cholesterol|Dinner|Rajma Curry|kidney beans,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Dinner|Palak Dal|spinach,dal,garlic,tomato|Vegan|Pakistani
+Cholesterol|Dinner|Chickpea Curry|chickpeas,onion,tomato,spices|Vegan|Pakistani
+Cholesterol|Dinner|Spinach Soup|spinach,garlic,water,salt|Vegan|Pakistani
+Cholesterol|Dinner|Turkey Saag|turkey,spinach,onion,spices|Non-Vegetarian|Pakistani
+Cholesterol|Snacks|Walnuts|walnuts|Vegan|Pakistani
+Cholesterol|Snacks|Flaxseed Drink|flaxseeds,water,lemon|Vegan|Pakistani
+Cholesterol|Snacks|Psyllium Husk Water|psyllium husk,water,lemon|Vegan|Pakistani
+Cholesterol|Snacks|Roasted Chana|chana,salt,cumin|Vegan|Pakistani
+Cholesterol|Snacks|Oat Biscuits|oats,honey|Vegan|Pakistani
+Cholesterol|Snacks|Apple with Cinnamon|apple,cinnamon|Vegan|Pakistani
+Cholesterol|Snacks|Chia Water|chia seeds,water,lemon|Vegan|Pakistani
+Cholesterol|Snacks|Almonds|almonds|Vegan|Pakistani
+Cholesterol|Snacks|Green Tea|green tea,lemon|Vegan|Pakistani
+Cholesterol|Snacks|Sprout Chaat|moong sprouts,tomato,lemon|Vegan|Pakistani
+Cholesterol|Snacks|Cucumber Slices|cucumber,salt,lemon|Vegan|Pakistani
+Cholesterol|Snacks|Coconut Water|coconut water|Vegan|Pakistani
+Cholesterol|Snacks|Carrot Sticks with Hummus|carrot,hummus|Vegan|Pakistani
+Cholesterol|Snacks|Lauki Juice|lauki,water,lemon|Vegan|Pakistani
+Cholesterol|Snacks|Tomato Soup|tomato,garlic,onion,salt|Vegan|Pakistani
+Cholesterol|Snacks|Roasted Pumpkin Seeds|pumpkin seeds,salt|Vegan|Pakistani
+Cholesterol|Snacks|Methi Seeds Water|methi seeds,water|Vegan|Pakistani
+Cholesterol|Snacks|Sattu Drink|sattu,water,lemon,salt|Vegan|Pakistani
+Cholesterol|Snacks|Namkeen Lassi (low fat)|low fat yogurt,water,salt,cumin|Vegetarian|Pakistani
+Cholesterol|Snacks|Chickpea Chaat|chickpeas,tomato,onion,chaat masala|Vegan|Pakistani
+Cholesterol|Snacks|Mixed Seeds|flaxseeds,pumpkin seeds,sunflower seeds|Vegan|Pakistani
+Cholesterol|Snacks|Dahi with Cucumber|yogurt,cucumber,mint,salt|Vegetarian|Pakistani
+Cholesterol|Snacks|Bran Crackers|wheat bran crackers,salt|Vegan|Pakistani
+Cholesterol|Snacks|Garlic Lemon Water|garlic,lemon,water|Vegan|Pakistani
+Cholesterol|Snacks|Lentil Soup Cup|masoor,water,garlic,salt|Vegan|Pakistani
+Cholesterol|Snacks|Herbal Tea|tulsi,ginger,water|Vegan|Pakistani
+Cholesterol|Snacks|Ajwain Water|ajwain,warm water|Vegan|Pakistani
+Cholesterol|Snacks|Palak Soup|spinach,garlic,water,salt|Vegan|Pakistani
+Cholesterol|Snacks|Steamed Moong|moong dal,salt,lemon|Vegan|Pakistani
+Cholesterol|Snacks|Avocado on Crackers|avocado,bran crackers,salt|Vegan|Pakistani
+Hypertension|Breakfast|Daliya Porridge (no salt)|daliya,water,milk|Vegetarian|Pakistani
+Hypertension|Breakfast|Oatmeal with Banana|oats,banana,milk,no salt|Vegetarian|Pakistani
+Hypertension|Breakfast|Besan Chilla (low salt)|besan,onion,tomato,minimal salt|Vegetarian|Pakistani
+Hypertension|Breakfast|Palak Paratha (low oil)|spinach,wheat flour,minimal oil|Vegan|Pakistani
+Hypertension|Breakfast|Moong Dal Cheela|moong dal,onion,coriander,minimal salt|Vegan|Pakistani
+Hypertension|Breakfast|Greek Yogurt with Banana|yogurt,banana,honey|Vegetarian|Pakistani
+Hypertension|Breakfast|Egg White Omelette|egg white,capsicum,onion,herbs|Non-Vegetarian|Pakistani
+Hypertension|Breakfast|Brown Rice Khichdi|brown rice,moong dal,turmeric,no salt|Vegan|Pakistani
+Hypertension|Breakfast|Lauki Juice|lauki,water,lemon|Vegan|Pakistani
+Hypertension|Breakfast|Avocado Toast|brown bread,avocado,lemon,no salt|Vegan|Pakistani
+Hypertension|Breakfast|Whole Wheat Roti with Sabzi|wheat roti,vegetables,minimal salt|Vegan|Pakistani
+Hypertension|Breakfast|Dahi with Flaxseeds|yogurt,flaxseeds|Vegetarian|Pakistani
+Hypertension|Breakfast|Chia Pudding|chia seeds,almond milk,honey|Vegan|Pakistani
+Hypertension|Breakfast|Sprout Salad|moong sprouts,tomato,cucumber,lemon|Vegan|Pakistani
+Hypertension|Breakfast|Banana Smoothie|banana,yogurt,almond milk|Vegetarian|Pakistani
+Hypertension|Breakfast|Methi Paratha (low oil)|methi,wheat flour,minimal oil|Vegan|Pakistani
+Hypertension|Breakfast|Almond Butter Toast|brown bread,almond butter|Vegan|Pakistani
+Hypertension|Breakfast|Flaxseed Drink|flaxseeds,water,lemon|Vegan|Pakistani
+Hypertension|Breakfast|Sattu Drink (no salt)|sattu,water,lemon|Vegan|Pakistani
+Hypertension|Breakfast|Coconut Water|coconut water|Vegan|Pakistani
+Hypertension|Breakfast|Oat Bran Porridge|oat bran,water,banana|Vegan|Pakistani
+Hypertension|Breakfast|Spinach Smoothie|spinach,banana,almond milk|Vegan|Pakistani
+Hypertension|Breakfast|Namkeen Daliya (low salt)|daliya,vegetables,cumin,minimal salt|Vegan|Pakistani
+Hypertension|Breakfast|Pumpkin Seed Yogurt|yogurt,pumpkin seeds,honey|Vegetarian|Pakistani
+Hypertension|Breakfast|Walnut Smoothie|walnuts,banana,milk|Vegetarian|Pakistani
+Hypertension|Breakfast|Rice Bran Roti with Dal|rice bran roti,moong dal|Vegan|Pakistani
+Hypertension|Breakfast|Carrot Ginger Juice|carrot,ginger,water,lemon|Vegan|Pakistani
+Hypertension|Breakfast|Boiled Egg (no salt)|egg,herbs,pepper|Non-Vegetarian|Pakistani
+Hypertension|Breakfast|Mixed Seeds Smoothie|flaxseeds,chia seeds,banana,almond milk|Vegan|Pakistani
+Hypertension|Breakfast|Herbal Tea with Brown Toast|green tea,ginger,brown bread|Vegan|Pakistani
+Hypertension|Lunch|Masoor Dal (low salt)|masoor dal,garlic,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Lunch|Grilled Fish|fish,lemon,garlic,herbs,no salt|Non-Vegetarian|Pakistani
+Hypertension|Lunch|Chana Dal (low salt)|chana dal,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Lunch|Moong Dal Soup|moong dal,garlic,cumin,water|Vegan|Pakistani
+Hypertension|Lunch|Baingan Bharta|baingan,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Lunch|Lobia Curry|black eyed peas,onion,tomato,spices|Vegan|Pakistani
+Hypertension|Lunch|Chicken Yakhni|chicken,ginger,garlic,water,no salt|Non-Vegetarian|Pakistani
+Hypertension|Lunch|Palak Paneer|spinach,low fat paneer,spices|Vegetarian|Pakistani
+Hypertension|Lunch|Grilled Chicken Salad|chicken,cucumber,tomato,lettuce,lemon|Non-Vegetarian|Pakistani
+Hypertension|Lunch|Brown Rice Pulao (low salt)|brown rice,vegetables,cumin|Vegan|Pakistani
+Hypertension|Lunch|Bhindi Curry|bhindi,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Lunch|Chickpea Curry|chickpeas,onion,tomato,spices|Vegan|Pakistani
+Hypertension|Lunch|Mixed Vegetable Curry|mixed vegetables,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Lunch|Lauki Dal|lauki,dal,tomato,spices|Vegan|Pakistani
+Hypertension|Lunch|Fish Curry|fish,tomato,onion,herbs,minimal salt|Non-Vegetarian|Pakistani
+Hypertension|Lunch|Turai Sabzi|turai,onion,tomato,spices|Vegan|Pakistani
+Hypertension|Lunch|Saag with Roti|saag,wheat roti,herbs|Vegetarian|Pakistani
+Hypertension|Lunch|Daal Mash (low salt)|urad dal,garlic,minimal salt|Vegan|Pakistani
+Hypertension|Lunch|Egg White Curry|egg white,onion,tomato,herbs|Non-Vegetarian|Pakistani
+Hypertension|Lunch|Arvi Curry|arvi,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Lunch|Palak Dal|spinach,dal,garlic,tomato|Vegan|Pakistani
+Hypertension|Lunch|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+Hypertension|Lunch|Rajma Curry|kidney beans,onion,tomato,spices|Vegan|Pakistani
+Hypertension|Lunch|Steamed Fish with Salad|fish,lemon,cucumber,tomato|Non-Vegetarian|Pakistani
+Hypertension|Lunch|Karela Sabzi|karela,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Lunch|Turkey Curry (low salt)|turkey,onion,tomato,herbs|Non-Vegetarian|Pakistani
+Hypertension|Lunch|Pumpkin Curry|pumpkin,onion,tomato,spices|Vegan|Pakistani
+Hypertension|Lunch|Vegetable Khichdi|rice,mixed vegetables,turmeric|Vegan|Pakistani
+Hypertension|Lunch|Sindhi Kadhi|vegetables,chickpea flour,tamarind|Vegan|Pakistani
+Hypertension|Lunch|Methi Sabzi|methi,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Grilled Fish|fish,lemon,garlic,herbs|Non-Vegetarian|Pakistani
+Hypertension|Dinner|Moong Dal Khichdi|moong dal,rice,turmeric,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Chicken Saag|chicken,spinach,onion,herbs|Non-Vegetarian|Pakistani
+Hypertension|Dinner|Masoor Soup|masoor,tomato,garlic,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Palak Paneer|spinach,low fat paneer,spices|Vegetarian|Pakistani
+Hypertension|Dinner|Bhindi Sabzi|bhindi,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Chana Dal with Roti|chana dal,wheat roti,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Steamed Chicken|chicken,ginger,garlic,herbs|Non-Vegetarian|Pakistani
+Hypertension|Dinner|Lauki Sabzi|lauki,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Baingan Bharta|baingan,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Mixed Vegetable Soup|mixed vegetables,garlic,herbs|Vegan|Pakistani
+Hypertension|Dinner|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+Hypertension|Dinner|Turai Gosht (low salt)|turai,chicken,herbs,minimal salt|Non-Vegetarian|Pakistani
+Hypertension|Dinner|Daal Mash with Roti|urad dal,wheat roti,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Grilled Tuna|tuna,lemon,garlic,herbs|Non-Vegetarian|Pakistani
+Hypertension|Dinner|Arvi Sabzi|arvi,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Aloo Methi (less oil)|potato,methi,minimal oil,salt|Vegan|Pakistani
+Hypertension|Dinner|Chicken Shorba|chicken,ginger,garlic,water,herbs|Non-Vegetarian|Pakistani
+Hypertension|Dinner|Saag with Makki Roti|saag,makki roti,herbs|Vegetarian|Pakistani
+Hypertension|Dinner|Egg White Bhurji|egg white,onion,tomato,herbs|Non-Vegetarian|Pakistani
+Hypertension|Dinner|Karela Sabzi|karela,onion,tomato,minimal salt|Vegan|Pakistani
+Hypertension|Dinner|Stuffed Capsicum|capsicum,low fat paneer,herbs|Vegetarian|Pakistani
+Hypertension|Dinner|Fish Curry (low salt)|fish,tomato,onion,herbs,minimal salt|Non-Vegetarian|Pakistani
+Hypertension|Dinner|Lauki Kofta (baked)|lauki,besan,herbs,minimal salt|Vegetarian|Pakistani
+Hypertension|Dinner|Rajma Curry|kidney beans,onion,tomato,spices|Vegan|Pakistani
+Hypertension|Dinner|Chickpea Curry|chickpeas,onion,tomato,spices|Vegan|Pakistani
+Hypertension|Dinner|Palak Dal|spinach,dal,garlic,tomato|Vegan|Pakistani
+Hypertension|Dinner|Spinach Soup|spinach,garlic,water,herbs|Vegan|Pakistani
+Hypertension|Dinner|Turkey Saag (low salt)|turkey,spinach,onion,herbs|Non-Vegetarian|Pakistani
+Hypertension|Dinner|Vegetable Khichdi|rice,mixed vegetables,turmeric|Vegan|Pakistani
+Hypertension|Snacks|Coconut Water|coconut water|Vegan|Pakistani
+Hypertension|Snacks|Banana|banana|Vegan|Pakistani
+Hypertension|Snacks|Lauki Juice|lauki,water,lemon|Vegan|Pakistani
+Hypertension|Snacks|Flaxseed Drink|flaxseeds,water,lemon|Vegan|Pakistani
+Hypertension|Snacks|Roasted Chana (no salt)|chana,cumin,no salt|Vegan|Pakistani
+Hypertension|Snacks|Walnuts and Almonds|walnuts,almonds|Vegan|Pakistani
+Hypertension|Snacks|Green Tea|green tea,lemon|Vegan|Pakistani
+Hypertension|Snacks|Cucumber Slices|cucumber,lemon,no salt|Vegan|Pakistani
+Hypertension|Snacks|Chia Water|chia seeds,water,lemon|Vegan|Pakistani
+Hypertension|Snacks|Sprout Chaat (low salt)|moong sprouts,tomato,lemon|Vegan|Pakistani
+Hypertension|Snacks|Greek Yogurt with Banana|yogurt,banana,no sugar|Vegetarian|Pakistani
+Hypertension|Snacks|Carrot Juice|carrot,water,ginger|Vegan|Pakistani
+Hypertension|Snacks|Methi Seeds Water|methi seeds,water|Vegan|Pakistani
+Hypertension|Snacks|Tomato Soup (no salt)|tomato,garlic,herbs|Vegan|Pakistani
+Hypertension|Snacks|Palak Soup|spinach,garlic,water|Vegan|Pakistani
+Hypertension|Snacks|Psyllium Husk Water|psyllium husk,water,lemon|Vegan|Pakistani
+Hypertension|Snacks|Roasted Pumpkin Seeds (no salt)|pumpkin seeds|Vegan|Pakistani
+Hypertension|Snacks|Sattu Drink (no salt)|sattu,water,lemon|Vegan|Pakistani
+Hypertension|Snacks|Mixed Seeds|flaxseeds,pumpkin seeds,sunflower seeds|Vegan|Pakistani
+Hypertension|Snacks|Herbal Tea|tulsi,ginger,water,honey|Vegan|Pakistani
+Hypertension|Snacks|Celery Sticks|celery,lemon|Vegan|Pakistani
+Hypertension|Snacks|Dahi (plain low fat)|low fat yogurt|Vegetarian|Pakistani
+Hypertension|Snacks|Bran Crackers (no salt)|wheat bran crackers|Vegan|Pakistani
+Hypertension|Snacks|Apple with Cinnamon|apple,cinnamon|Vegan|Pakistani
+Hypertension|Snacks|Ajwain Water|ajwain,warm water|Vegan|Pakistani
+Hypertension|Snacks|Watermelon Juice|watermelon,water|Vegan|Pakistani
+Hypertension|Snacks|Oat Biscuits (no salt)|oats,honey|Vegan|Pakistani
+Hypertension|Snacks|Chickpea Chaat (low salt)|chickpeas,tomato,onion,lemon|Vegan|Pakistani
+Hypertension|Snacks|Lentil Soup Cup|masoor,water,garlic|Vegan|Pakistani
+Hypertension|Snacks|Steamed Moong|moong dal,lemon|Vegan|Pakistani
+Fatty Liver|Breakfast|Daliya Porridge|daliya,water,milk,no sugar|Vegetarian|Pakistani
+Fatty Liver|Breakfast|Oatmeal with Apple|oats,apple,cinnamon,water|Vegan|Pakistani
+Fatty Liver|Breakfast|Besan Chilla (low oil)|besan,onion,tomato,minimal oil|Vegetarian|Pakistani
+Fatty Liver|Breakfast|Moong Dal Cheela|moong dal,onion,coriander,minimal oil|Vegan|Pakistani
+Fatty Liver|Breakfast|Palak Paratha (low oil)|spinach,wheat flour,minimal oil|Vegan|Pakistani
+Fatty Liver|Breakfast|Whole Wheat Roti with Sabzi|wheat roti,vegetables,minimal oil|Vegan|Pakistani
+Fatty Liver|Breakfast|Egg White Omelette|egg white,capsicum,onion,salt|Non-Vegetarian|Pakistani
+Fatty Liver|Breakfast|Sprout Salad|moong sprouts,tomato,cucumber,lemon|Vegan|Pakistani
+Fatty Liver|Breakfast|Greek Yogurt with Oats|low fat yogurt,oats,flaxseeds|Vegetarian|Pakistani
+Fatty Liver|Breakfast|Brown Rice Khichdi|brown rice,moong dal,turmeric|Vegan|Pakistani
+Fatty Liver|Breakfast|Lauki Juice|lauki,water,ginger,lemon|Vegan|Pakistani
+Fatty Liver|Breakfast|Avocado Toast|brown bread,avocado,lemon,no salt|Vegan|Pakistani
+Fatty Liver|Breakfast|Chia Pudding|chia seeds,almond milk,no sugar|Vegan|Pakistani
+Fatty Liver|Breakfast|Flaxseed Smoothie|flaxseeds,banana,almond milk|Vegan|Pakistani
+Fatty Liver|Breakfast|Dahi with Flaxseeds|low fat yogurt,flaxseeds|Vegetarian|Pakistani
+Fatty Liver|Breakfast|Methi Paratha (low oil)|methi,wheat flour,minimal oil|Vegan|Pakistani
+Fatty Liver|Breakfast|Sattu Drink|sattu,water,lemon,salt|Vegan|Pakistani
+Fatty Liver|Breakfast|Coconut Water|coconut water|Vegan|Pakistani
+Fatty Liver|Breakfast|Namkeen Daliya (low oil)|daliya,vegetables,cumin,minimal oil|Vegan|Pakistani
+Fatty Liver|Breakfast|Bran Porridge|oat bran,water,apple|Vegan|Pakistani
+Fatty Liver|Breakfast|Almond Butter Toast|brown bread,almond butter|Vegan|Pakistani
+Fatty Liver|Breakfast|Spinach Smoothie|spinach,banana,almond milk|Vegan|Pakistani
+Fatty Liver|Breakfast|Carrot Ginger Juice|carrot,ginger,water,lemon|Vegan|Pakistani
+Fatty Liver|Breakfast|Boiled Egg|egg,herbs,salt|Non-Vegetarian|Pakistani
+Fatty Liver|Breakfast|Mixed Seeds Yogurt|low fat yogurt,flaxseeds,pumpkin seeds|Vegetarian|Pakistani
+Fatty Liver|Breakfast|Walnut Smoothie|walnuts,banana,almond milk|Vegan|Pakistani
+Fatty Liver|Breakfast|Psyllium Husk Drink|psyllium husk,water,lemon|Vegan|Pakistani
+Fatty Liver|Breakfast|Ragi Roti with Dal|ragi flour,moong dal|Vegan|Pakistani
+Fatty Liver|Breakfast|Chickpea Cheela|chickpea flour,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Breakfast|Green Tea with Brown Toast|green tea,ginger,brown bread|Vegan|Pakistani
+Fatty Liver|Lunch|Masoor Dal (low oil)|masoor dal,garlic,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Lunch|Grilled Fish|fish,lemon,garlic,spices,minimal oil|Non-Vegetarian|Pakistani
+Fatty Liver|Lunch|Chana Dal (low oil)|chana dal,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Lunch|Moong Dal Soup|moong dal,garlic,cumin,water|Vegan|Pakistani
+Fatty Liver|Lunch|Baingan Bharta (low oil)|baingan,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Lunch|Lobia Curry|black eyed peas,onion,tomato,spices|Vegan|Pakistani
+Fatty Liver|Lunch|Grilled Chicken Breast|chicken,lemon,garlic,spices,no oil|Non-Vegetarian|Pakistani
+Fatty Liver|Lunch|Palak Paneer (low fat)|spinach,low fat paneer,spices|Vegetarian|Pakistani
+Fatty Liver|Lunch|Chickpea Curry|chickpeas,onion,tomato,spices|Vegan|Pakistani
+Fatty Liver|Lunch|Brown Rice Pulao|brown rice,vegetables,cumin|Vegan|Pakistani
+Fatty Liver|Lunch|Bhindi Curry (low oil)|bhindi,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Lunch|Mixed Vegetable Curry|mixed vegetables,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Lunch|Rajma Curry|kidney beans,onion,tomato,spices|Vegan|Pakistani
+Fatty Liver|Lunch|Lauki Dal|lauki,dal,tomato,spices|Vegan|Pakistani
+Fatty Liver|Lunch|Fish Curry (low oil)|fish,tomato,onion,herbs,minimal oil|Non-Vegetarian|Pakistani
+Fatty Liver|Lunch|Turai Sabzi|turai,onion,tomato,spices|Vegan|Pakistani
+Fatty Liver|Lunch|Saag with Roti|saag,wheat roti,minimal butter|Vegetarian|Pakistani
+Fatty Liver|Lunch|Daal Mash (low oil)|urad dal,garlic,minimal oil|Vegan|Pakistani
+Fatty Liver|Lunch|Egg White Curry|egg white,onion,tomato,spices|Non-Vegetarian|Pakistani
+Fatty Liver|Lunch|Karela Sabzi|karela,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Lunch|Palak Dal|spinach,dal,garlic,tomato|Vegan|Pakistani
+Fatty Liver|Lunch|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+Fatty Liver|Lunch|Sindhi Kadhi|vegetables,chickpea flour,tamarind|Vegan|Pakistani
+Fatty Liver|Lunch|Steamed Fish with Salad|fish,lemon,cucumber,tomato|Non-Vegetarian|Pakistani
+Fatty Liver|Lunch|Arvi Curry (low oil)|arvi,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Lunch|Chicken Yakhni|chicken,ginger,garlic,water,spices|Non-Vegetarian|Pakistani
+Fatty Liver|Lunch|Pumpkin Curry|pumpkin,onion,tomato,spices|Vegan|Pakistani
+Fatty Liver|Lunch|Turkey Curry (low fat)|turkey,onion,tomato,herbs|Non-Vegetarian|Pakistani
+Fatty Liver|Lunch|Vegetable Khichdi|rice,mixed vegetables,turmeric,minimal oil|Vegan|Pakistani
+Fatty Liver|Lunch|Methi Sabzi|methi,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Dinner|Grilled Fish|fish,lemon,garlic,herbs,minimal oil|Non-Vegetarian|Pakistani
+Fatty Liver|Dinner|Moong Dal Khichdi|moong dal,rice,turmeric,salt|Vegan|Pakistani
+Fatty Liver|Dinner|Chicken Saag (low oil)|chicken,spinach,onion,herbs,minimal oil|Non-Vegetarian|Pakistani
+Fatty Liver|Dinner|Masoor Soup|masoor,tomato,garlic,minimal oil|Vegan|Pakistani
+Fatty Liver|Dinner|Palak Paneer (low fat)|spinach,low fat paneer,spices|Vegetarian|Pakistani
+Fatty Liver|Dinner|Bhindi Sabzi (low oil)|bhindi,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Dinner|Chana Dal with Roti|chana dal,wheat roti,minimal oil|Vegan|Pakistani
+Fatty Liver|Dinner|Steamed Chicken|chicken,ginger,garlic,herbs|Non-Vegetarian|Pakistani
+Fatty Liver|Dinner|Lauki Sabzi|lauki,onion,tomato,spices|Vegan|Pakistani
+Fatty Liver|Dinner|Baingan Bharta (low oil)|baingan,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Dinner|Mixed Vegetable Soup|mixed vegetables,garlic,herbs|Vegan|Pakistani
+Fatty Liver|Dinner|Lentil Soup|mixed lentils,garlic,cumin,tomato|Vegan|Pakistani
+Fatty Liver|Dinner|Daal Mash with Roti|urad dal,wheat roti,minimal oil|Vegan|Pakistani
+Fatty Liver|Dinner|Grilled Tuna|tuna,lemon,garlic,herbs|Non-Vegetarian|Pakistani
+Fatty Liver|Dinner|Arvi Sabzi (low oil)|arvi,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Dinner|Aloo Methi (less oil)|potato,methi,minimal oil|Vegan|Pakistani
+Fatty Liver|Dinner|Chicken Shorba|chicken,ginger,garlic,water,herbs|Non-Vegetarian|Pakistani
+Fatty Liver|Dinner|Saag with Makki Roti|saag,makki roti,minimal butter|Vegetarian|Pakistani
+Fatty Liver|Dinner|Egg White Bhurji|egg white,onion,tomato,herbs|Non-Vegetarian|Pakistani
+Fatty Liver|Dinner|Karela Sabzi|karela,onion,tomato,minimal oil|Vegan|Pakistani
+Fatty Liver|Dinner|Stuffed Capsicum (baked)|capsicum,low fat paneer,herbs|Vegetarian|Pakistani
+Fatty Liver|Dinner|Fish Curry (low oil)|fish,tomato,onion,herbs,minimal oil|Non-Vegetarian|Pakistani
+Fatty Liver|Dinner|Lauki Kofta (baked)|lauki,besan,herbs|Vegetarian|Pakistani
+Fatty Liver|Dinner|Rajma Curry|kidney beans,onion,tomato,spices|Vegan|Pakistani
+Fatty Liver|Dinner|Chickpea Curry|chickpeas,onion,tomato,spices|Vegan|Pakistani
+Fatty Liver|Dinner|Palak Dal|spinach,dal,garlic,tomato|Vegan|Pakistani
+Fatty Liver|Dinner|Spinach Soup|spinach,garlic,water,herbs|Vegan|Pakistani
+Fatty Liver|Dinner|Turkey Saag|turkey,spinach,onion,herbs,minimal oil|Non-Vegetarian|Pakistani
+Fatty Liver|Dinner|Vegetable Khichdi|rice,mixed vegetables,turmeric,minimal oil|Vegan|Pakistani
+Fatty Liver|Snacks|Lauki Juice|lauki,water,lemon|Vegan|Pakistani
+Fatty Liver|Snacks|Flaxseed Drink|flaxseeds,water,lemon|Vegan|Pakistani
+Fatty Liver|Snacks|Roasted Chana (no oil)|chana,salt,cumin|Vegan|Pakistani
+Fatty Liver|Snacks|Walnuts|walnuts|Vegan|Pakistani
+Fatty Liver|Snacks|Green Tea|green tea,lemon|Vegan|Pakistani
+Fatty Liver|Snacks|Sprout Chaat|moong sprouts,tomato,lemon|Vegan|Pakistani
+Fatty Liver|Snacks|Chia Water|chia seeds,water,lemon|Vegan|Pakistani
+Fatty Liver|Snacks|Cucumber Slices|cucumber,lemon,salt|Vegan|Pakistani
+Fatty Liver|Snacks|Coconut Water|coconut water|Vegan|Pakistani
+Fatty Liver|Snacks|Greek Yogurt (low fat)|low fat yogurt|Vegetarian|Pakistani
+Fatty Liver|Snacks|Carrot Juice|carrot,water,ginger|Vegan|Pakistani
+Fatty Liver|Snacks|Methi Seeds Water|methi seeds,water|Vegan|Pakistani
+Fatty Liver|Snacks|Tomato Soup (no oil)|tomato,garlic,herbs|Vegan|Pakistani
+Fatty Liver|Snacks|Palak Soup|spinach,garlic,water|Vegan|Pakistani
+Fatty Liver|Snacks|Psyllium Husk Water|psyllium husk,water,lemon|Vegan|Pakistani
+Fatty Liver|Snacks|Roasted Pumpkin Seeds|pumpkin seeds,salt|Vegan|Pakistani
+Fatty Liver|Snacks|Sattu Drink|sattu,water,lemon|Vegan|Pakistani
+Fatty Liver|Snacks|Mixed Seeds|flaxseeds,pumpkin seeds,sunflower seeds|Vegan|Pakistani
+Fatty Liver|Snacks|Herbal Tea|tulsi,ginger,water,honey|Vegan|Pakistani
+Fatty Liver|Snacks|Apple with Cinnamon|apple,cinnamon|Vegan|Pakistani
+Fatty Liver|Snacks|Ajwain Water|ajwain,warm water|Vegan|Pakistani
+Fatty Liver|Snacks|Bran Crackers|wheat bran crackers,no oil|Vegan|Pakistani
+Fatty Liver|Snacks|Chickpea Chaat (low oil)|chickpeas,tomato,onion,lemon|Vegan|Pakistani
+Fatty Liver|Snacks|Lentil Soup Cup|masoor,water,garlic|Vegan|Pakistani
+Fatty Liver|Snacks|Dahi (low fat)|low fat yogurt,cucumber,mint|Vegetarian|Pakistani
+Fatty Liver|Snacks|Steamed Moong|moong dal,lemon|Vegan|Pakistani
+Fatty Liver|Snacks|Oat Biscuits (no sugar)|oats,honey|Vegan|Pakistani
+Fatty Liver|Snacks|Almonds|almonds|Vegan|Pakistani
+Fatty Liver|Snacks|Watermelon Juice|watermelon,water|Vegan|Pakistani
+Fatty Liver|Snacks|Celery Sticks with Hummus|celery,hummus|Vegan|Pakistani
+Diabetes|Dinner|Pumpkin Curry|pumpkin,onion,tomato,spices|Vegan|Pakistani
+Diabetes|Dinner|Methi Matar Soup|methi,peas,water,spices|Vegan|Pakistani
+Fatty Liver|Dinner|Pumpkin Curry (low oil)|pumpkin,onion,tomato,minimal oil|Vegan|Pakistani
